@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533701150619",
+    "project_id": "jay-bala-ji-super-market",
+    "storage_bucket": "jay-bala-ji-super-market.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533701150619:android:6e67b6e7005214dce0033e",
+        "android_client_info": {
+          "package_name": "com.example.jaybalajisupermarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYbT0zFrDQTyLcx-3IMCeug6tHgExHcaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
