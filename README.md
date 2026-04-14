@@ -34,3 +34,7 @@ If you want to run the source code locally:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Dharani-dev22/Client-app.git](https://github.com/Dharani-dev22/Client-app.git)
+---
+
+## 👤 Developer
+**Pondharani Devendra** *Information Technology Student at SIWS College*
